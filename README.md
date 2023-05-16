@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to the my profile 👋
 <div> 
   <a href="https://instagram.com/felipeosouz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/722983032390287441" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
