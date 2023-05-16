@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Felipeosouz/github-readme-stats)
+[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipeosouz)](https://github.com/Felipeosouz/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
