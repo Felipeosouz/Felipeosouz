@@ -13,5 +13,5 @@
 </div>
 <br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=aws,c,css,html,git,mysql,php,py,vscode" />
 </a>
