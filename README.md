@@ -13,5 +13,5 @@
 </div>
 <br>
 <div align="left" style="display: inline_block"><br>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  [![My Skills]https://skillicons.dev/icons?i=js,html,css,wasm)]https://skillicons.dev
 </div>
