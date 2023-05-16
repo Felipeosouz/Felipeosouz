@@ -12,6 +12,6 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeosouz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
-<div align="left" style="display: inline_block"><br>
-  [![My Skills]https://skillicons.dev/icons?i=js,html,css,wasm)]https://skillicons.dev
-</div>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+</a>
