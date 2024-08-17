@@ -13,5 +13,5 @@
 </div>
 <br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,css,html,php,js,py,git,vscode,react,discord,github,bootstrap,stackoverflow,aws,prisma" />
+    <img src="https://skillicons.dev/icons?i=c,css,html,php,js,py,git,vscode,react,discord,github,bootstrap,stackoverflow,aws,gmail" />
 </a>
