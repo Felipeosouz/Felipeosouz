@@ -9,7 +9,12 @@
 <div>
   <a href="https://github.com/felipeosouz">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipeosouz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeosouz&layout=compact&langs_count=7&theme=tokyonight"/>
+  ## My Preferred Languages & Tools
+<div>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Streamlit-%2328A745.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</div>
 </div>
 <br>
 <a href="https://skillicons.dev">
