@@ -15,6 +15,7 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,css,html,php,js,py,git,vscode,discord,github,bootstrap,stackoverflow,mysql,linkedin,gmail" />
 </a>
-<img src="https://badgen.net/badge/icon/python?icon=python&label" alt="Python"/>
-<img src="https://badgen.net/badge/icon/javascript?icon=javascript&label" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1C.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
 
