@@ -26,3 +26,4 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,css,html,php,js,py,git,vscode,discord,github,bootstrap,stackoverflow,mysql,linkedin,gmail" />
 </a>
+    <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
