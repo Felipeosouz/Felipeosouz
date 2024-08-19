@@ -8,22 +8,10 @@
 <br>
 <div>
   <a href="https://github.com/felipeosouz">
-</div>
-    <div>
-  <a href="https://github.com/felipeosouz/Fome-Zero_DataAnalisys">
-    <img src="https://img.shields.io/badge/Fome%20Zero%20Data%20Analisys-%2300C853?style=for-the-badge" alt="Fome Zero Data Analysis"/>
-  </a>
-  <!-- Adicione mais repositórios aqui, se desejar -->
-</div>
-<h2>My Preferred Languages & Tools</h2>
-<div>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Streamlit-%2328A745.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-</div>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipeosouz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipeosouz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,css,html,php,js,py,git,vscode,discord,github,bootstrap,stackoverflow,mysql,linkedin,gmail" />
 </a>
-    <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
