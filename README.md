@@ -10,7 +10,7 @@
   <a href="https://github.com/felipeosouz">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipeosouz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
-## My Preferred Languages & Tools
+<h2>My Preferred Languages & Tools</h2>
 <div>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
