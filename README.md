@@ -15,3 +15,6 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,css,html,php,js,py,git,vscode,discord,github,bootstrap,stackoverflow,mysql,linkedin,gmail" />
 </a>
+<img src="https://badgen.net/badge/icon/python?icon=python&label" alt="Python"/>
+<img src="https://badgen.net/badge/icon/javascript?icon=javascript&label" alt="JavaScript"/>
+
