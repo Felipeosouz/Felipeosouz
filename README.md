@@ -12,7 +12,7 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeosouz&hide_progress=true&theme=tokyonight"/>
 </div>
 <br>
-<h2>My referred languages & tools</h2>
+<h2>My preferred languages & tools</h2>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,css,html,git,vscode,discord,github,bootstrap,stackoverflow,mysql,linkedin,gmail" />
 </a>
