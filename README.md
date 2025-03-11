@@ -14,5 +14,5 @@
 <br>
 <h2>My preferred languages & tools</h2>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,css,html,git,github,vscode,discord,mysql,linkedin,gmail" />
+    <img src="https://skillicons.dev/icons?i=py,css,html,git,github,vscode,docker,linux,discord,mysql,linkedin,gmail" />
 </a>
