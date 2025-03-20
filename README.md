@@ -17,16 +17,9 @@
     <img src="https://skillicons.dev/icons?i=py,css,html,git,github,vscode,docker,linux,discord,mysql,linkedin,gmail" />
 </a>
 
-<!-- <br clear="both"> 
+<br clear="both"> 
 
 <img src="https://raw.githubusercontent.com/felipeosouz/felipeosouz/output/snake.svg" alt="Snake animation" />
 
-### -->
+### 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipeosouz/felipeosouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipeosouz/felipeosouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/felipeosouz/felipeosouz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
