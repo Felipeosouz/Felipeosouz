@@ -1,4 +1,4 @@
-# Welcome to my profile, my name is Felipe and i'm a Data Engineer! 👋
+# Hi, my name is Felipe and i'm a Data Engineer! 👋
 
 <div> 
   <a href="https://instagram.com/felipeosouz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
