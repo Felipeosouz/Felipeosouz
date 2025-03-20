@@ -16,3 +16,8 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,css,html,git,github,vscode,docker,linux,discord,mysql,linkedin,gmail" />
 </a>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/felipeosouz/felipeosouz/output/snake.svg" alt="Snake animation" />
+
+###
