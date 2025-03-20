@@ -1,4 +1,9 @@
 # Welcome to my profile, my name is Felipe and i'm a Data Engineer! 👋
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=felipeosouz.felipeosouz&"  />
+</div>
+
+###
 <div> 
   <a href="https://instagram.com/felipeosouz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/722983032390287441" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
